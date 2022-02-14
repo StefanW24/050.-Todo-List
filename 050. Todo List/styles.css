@@ -1,0 +1,50 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-weight: 500;
+}
+
+#inputField{
+    width: 400px;
+    margin-left: 75px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.button{
+    background-color: #4682B4;
+    margin-left: 25px;
+    height: 32px;
+    width: 45px;
+    border-radius: 5px;
+    color: white;
+}
+
+.List{
+    list-style: none;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+#deleteButton {
+    margin-left: 400px;
+    background-color: white;
+    border: none;
+    position: absolute;
+}
+
+.fa-trash-can{
+    color: red;
+    font-size: 15px;
+}
+
+.todo{  
+    height: 50px;
+    width: 550px
+}
+
+
+
